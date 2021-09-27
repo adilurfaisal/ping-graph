@@ -1,0 +1,25 @@
+{
+  "name": "ping-graph",
+  "version": "1.0.0",
+  "description": "It's a ping monitor package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilurfaisal/ping-graph.git"
+  },
+  "keywords": [
+    "ping",
+    "monitor",
+    "ping-monitor",
+    "ping-graph"
+  ],
+  "author": "Adilur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilurfaisal/ping-graph/issues"
+  },
+  "homepage": "https://github.com/adilurfaisal/ping-graph#readme"
+}
