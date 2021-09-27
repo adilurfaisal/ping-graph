@@ -10,7 +10,7 @@ const multibar = new cliProgress.MultiBar({
     stream: process.stdout,
     barsize: 90,
     position: 'center',
-	format: '{ip} \t [{bar}] {value}ms'
+	format: '{ip} [{bar}] {value}ms'
 }, cliProgress.Presets.shades_grey);
 
 function ping_graph(ips, options){
