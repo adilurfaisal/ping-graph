@@ -9,7 +9,7 @@ It's a ping monitor package.
 Then ...
 
 ```
-const ping_graph = require('ping_graph');
+const ping_graph = require('ping-graph');
 
 let ips = ['8.8.8.8', 'google.com', 'facebook.com'];
 
