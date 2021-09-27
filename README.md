@@ -6,7 +6,7 @@ It's a ping monitor package.
 
 `npm i ping-graph --save`
 
-Then ...
+# Example
 
 ```
 const ping_graph = require('ping-graph');
@@ -21,3 +21,6 @@ ping_graph.start(ips, options);
 
 ```
 
+# Example Image
+
+![Alt text](example-1.jpg?raw=true "Example 1")
