@@ -44,4 +44,4 @@ function ping_graph(ips, options){
 
 }
 
-module.exports.ping_graph = ping_graph;
+module.exports.start = ping_graph;

@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/adilurfaisal/ping-graph/issues"
   },
-  "homepage": "https://github.com/adilurfaisal/ping-graph#readme"
+  "homepage": "https://github.com/adilurfaisal/ping-graph#readme",
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "ping-wrapper": "0.0.3"
+  }
 }

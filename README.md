@@ -17,7 +17,7 @@ const options = {
     target: 1000 //default 2000
 };
 
-ping_graph(ips, options);
+ping_graph.start(ips, options);
 
 ```
 
